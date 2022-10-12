@@ -11,6 +11,7 @@
 		FACF909E28F7142800FAE79D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACF909D28F7142800FAE79D /* ContentView.swift */; };
 		FACF90A028F7142A00FAE79D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FACF909F28F7142A00FAE79D /* Assets.xcassets */; };
 		FACF90A428F7142A00FAE79D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FACF90A328F7142A00FAE79D /* Preview Assets.xcassets */; };
+		FACF90AB28F71BFD00FAE79D /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FACF90AA28F71BFD00FAE79D /* ContentView2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FACF909F28F7142A00FAE79D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FACF90A128F7142A00FAE79D /* MatchedGeometryEffect.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MatchedGeometryEffect.entitlements; sourceTree = "<group>"; };
 		FACF90A328F7142A00FAE79D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FACF90AA28F71BFD00FAE79D /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				FACF909B28F7142800FAE79D /* MatchedGeometryEffectApp.swift */,
 				FACF909D28F7142800FAE79D /* ContentView.swift */,
+				FACF90AA28F71BFD00FAE79D /* ContentView2.swift */,
 				FACF909F28F7142A00FAE79D /* Assets.xcassets */,
 				FACF90A128F7142A00FAE79D /* MatchedGeometryEffect.entitlements */,
 				FACF90A228F7142A00FAE79D /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FACF90AB28F71BFD00FAE79D /* ContentView2.swift in Sources */,
 				FACF909E28F7142800FAE79D /* ContentView.swift in Sources */,
 				FACF909C28F7142800FAE79D /* MatchedGeometryEffectApp.swift in Sources */,
 			);
